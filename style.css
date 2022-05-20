@@ -48,7 +48,7 @@ body {
   }
   .email-cta::before {
     content: "";
-    background: #e62034;
+    background: #b61626;
     position: absolute;
     height: 100px;
     top: 0;
